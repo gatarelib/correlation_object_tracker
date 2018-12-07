@@ -8,7 +8,7 @@ The input is a bounding box of the object and then the tracker automatically tra
 ## Usage:
 Single object tracking:
 
-  `python video_object_track.py -video video.mp4 -width 800 -height 600`
+  `python object_tracking.py -video video.mp4 -width 800 -height 600`
   
 Multi object tracking:
 
